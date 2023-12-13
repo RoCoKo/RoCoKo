@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoCoKo
 - 👀 I’m interested in potatoes
-- 🌱 I’m currently learning lua
+- 🌱 I’m currently learning how to survive
 - 💞️ I’m looking to collaborate on tomatoes
 - 📫 How to reach me RoCoKo#3805
 
